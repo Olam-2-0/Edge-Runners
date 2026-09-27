@@ -2,15 +2,6 @@
 
 A smart study planning and time-management application designed to help students organize academic tasks, manage deadlines, and build consistent study habits.
 
-## Team
-
-### Edge Runners
-
-* **Monish Chandra**
-* **Aron George Daniel**
-* **Anzen Abhi Sajen**
-* **Dan Jose**
-
 ## Technology Stack
 
 * **Frontend:** React, TypeScript, Tailwind CSS
